@@ -14,10 +14,13 @@
 			blog.gbence.com
 
 help included, but for really lazy guys..
+
 	php deploy.php $host $port $user $pass
+	
 Requirements:
-	php5-cli
-	libssh-php5
+
+php5-cli
+libssh-php5
 
 					Feel free to use my script, but please.. 
 								dont remove a copyright msg.
