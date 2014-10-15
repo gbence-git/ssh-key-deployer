@@ -19,8 +19,8 @@ help included, but for really lazy guys..
 	
 Requirements:
 
-php5-cli
-libssh-php5
+php5-cli 
+libssh2-php libssh2-1 
 
 					Feel free to use my script, but please.. 
 								dont remove a copyright msg.
